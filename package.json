@@ -1,0 +1,19 @@
+{
+  "name": "npm-cli-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/echo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koooge/npm-cli-sample.git"
+  },
+  "author": "koooge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koooge/npm-cli-sample/issues"
+  },
+  "homepage": "https://github.com/koooge/npm-cli-sample#readme"
+}
