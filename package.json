@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "bin/echo",
+  "bin": {
+    "npm-cli-sample": "bin/echo"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
